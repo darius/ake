@@ -2,3 +2,10 @@ ake -- A little 'make'
 Copyright (c) 2008 Darius Bacon <darius@wry.me>
 Distributed under the MIT X license
 http://www.opensource.org/licenses/mit-license.html
+
+'ake' works more or less like 'make'.
+TODO: document it
+
+'build' is a script to drop into your project to use ake without
+having to either check ake into your repository or explicitly install
+it separately.
